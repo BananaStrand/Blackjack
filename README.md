@@ -1,1 +1,1 @@
-It's console python!
+It's console blackjack!
